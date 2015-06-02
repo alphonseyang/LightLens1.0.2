@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DE4BA5D3-4EFD-4ED2-B561-A6EC764CA9EA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LightLens</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6A3729A2A0F66001FD350645170AF04473E67FBE</key>
+		<string>https://github.com/alphonseyang/LightLens1.0.2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LightLens.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6A3729A2A0F66001FD350645170AF04473E67FBE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/alphonseyang/LightLens1.0.2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6A3729A2A0F66001FD350645170AF04473E67FBE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6A3729A2A0F66001FD350645170AF04473E67FBE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LightLens1.0.2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
